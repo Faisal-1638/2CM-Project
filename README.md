@@ -1,1 +1,1 @@
-It is my first repository that only contains a hello world program.
+It is my first repository that only contains a Hello World program.
